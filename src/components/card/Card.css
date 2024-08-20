@@ -1,0 +1,21 @@
+.list__item-title {
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 34.5px;
+}
+.list__item-description {
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 18px;
+}
+
+.author__block-name {
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 18px;
+}
+.author__block-date {
+	font-size: 8px;
+	font-weight: 400;
+	line-height: 12px;
+}

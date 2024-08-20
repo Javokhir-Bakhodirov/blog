@@ -1,0 +1,12 @@
+.author__block-name-s {
+	background: linear-gradient(180deg, #ee5626 50.52%, #35109f 89.58%);
+	-webkit-background-clip: text;
+	background-clip: text;
+	color: transparent;
+}
+
+.page__title {
+	font-size: 48px;
+	font-weight: 700;
+	line-height: 72px;
+}
